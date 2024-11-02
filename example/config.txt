@@ -1,0 +1,2 @@
+Prefix plugins/PhredBox/example/
+Plugin PhredBox inputfile hiseq.txt outputfile phred.png
